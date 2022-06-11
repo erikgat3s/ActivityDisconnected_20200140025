@@ -1,0 +1,10 @@
+C:\Users\ERIK\source\repos\Disconnected\Disconnected\bin\Debug\Disconnected.exe.config
+C:\Users\ERIK\source\repos\Disconnected\Disconnected\bin\Debug\Disconnected.exe
+C:\Users\ERIK\source\repos\Disconnected\Disconnected\bin\Debug\Disconnected.pdb
+C:\Users\ERIK\source\repos\Disconnected\Disconnected\obj\Debug\Disconnected.csprojAssemblyReference.cache
+C:\Users\ERIK\source\repos\Disconnected\Disconnected\obj\Debug\Disconnected.Form1.resources
+C:\Users\ERIK\source\repos\Disconnected\Disconnected\obj\Debug\Disconnected.Properties.Resources.resources
+C:\Users\ERIK\source\repos\Disconnected\Disconnected\obj\Debug\Disconnected.csproj.GenerateResource.cache
+C:\Users\ERIK\source\repos\Disconnected\Disconnected\obj\Debug\Disconnected.csproj.CoreCompileInputs.cache
+C:\Users\ERIK\source\repos\Disconnected\Disconnected\obj\Debug\Disconnected.exe
+C:\Users\ERIK\source\repos\Disconnected\Disconnected\obj\Debug\Disconnected.pdb
